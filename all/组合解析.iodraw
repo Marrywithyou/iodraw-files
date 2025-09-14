@@ -105,7 +105,7 @@
         <mxCell id="hJFQaA380FzBIK7bfyuj-31" value="若RenameSourceKeyIfFail有值，则用其值作为 key 名" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="600" y="417.5" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hJFQaA380FzBIK7bfyuj-32" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hJFQaA380FzBIK7bfyuj-32" value="直接进入下一个插件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
