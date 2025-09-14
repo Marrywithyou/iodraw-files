@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hJFQaA380FzBIK7bfyuj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aRHt-sDj_j29LKEHJK6V-1" target="hJFQaA380FzBIK7bfyuj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aRHt-sDj_j29LKEHJK6V-1" value="进入一行日志" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJFQaA380FzBIK7bfyuj-3" value="进入一行日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
