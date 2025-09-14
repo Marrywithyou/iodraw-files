@@ -1,26 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="HvJT74Jse3g1DyB4XitP">
-    <mxGraphModel dx="662" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="790" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aRHt-sDj_j29LKEHJK6V-1" value="Ready File List" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="80" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aRHt-sDj_j29LKEHJK6V-2" value="Log File" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aRHt-sDj_j29LKEHJK6V-3" value="File Open&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="230" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aRHt-sDj_j29LKEHJK6V-4" value="Read" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="300" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aRHt-sDj_j29LKEHJK6V-5" value="Flie Close" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="370" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aRHt-sDj_j29LKEHJK6V-6" value="Parse/Send" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="440" width="120" height="40" as="geometry" />
+        <mxCell id="aRHt-sDj_j29LKEHJK6V-1" value="进入一行日志" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
