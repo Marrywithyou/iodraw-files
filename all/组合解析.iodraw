@@ -85,6 +85,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hJFQaA380FzBIK7bfyuj-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hJFQaA380FzBIK7bfyuj-20" target="hJFQaA380FzBIK7bfyuj-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hJFQaA380FzBIK7bfyuj-20" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;6d24de791bd0a71e35c52f781bc77255&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 0pt; font-family: 等线; font-size: 12pt; line-height: 1.5;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: Monaco; letter-spacing: 0pt; vertical-align: baseline;&quot; data-font-family=&quot;Monaco&quot;&gt;ActionIfFail&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="460" width="145" height="50" as="geometry" />
         </mxCell>
@@ -95,7 +98,10 @@
           <mxGeometry x="470" y="500" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="hJFQaA380FzBIK7bfyuj-31" value="若RenameSourceKeyIfFail有值，则用其值作为 key 名" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="460" y="470" width="160" height="40" as="geometry" />
+          <mxGeometry x="600" y="417.5" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJFQaA380FzBIK7bfyuj-32" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
