@@ -111,8 +111,8 @@
         <mxCell id="hJFQaA380FzBIK7bfyuj-32" value="直接进入下一个插件" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="140" y="559" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="hJFQaA380FzBIK7bfyuj-36" value="processor_multiline" style="text;whiteSpace=wrap;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="61.9983870967737" y="139.9032258064516" width="131" height="36" as="geometry" />
+        <mxCell id="hJFQaA380FzBIK7bfyuj-36" value="processor_multiline插件运作逻辑" style="text;whiteSpace=wrap;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="62" y="139.9" width="214" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
