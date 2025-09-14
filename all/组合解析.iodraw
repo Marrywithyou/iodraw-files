@@ -30,7 +30,7 @@
           <mxGeometry x="140" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hJFQaA380FzBIK7bfyuj-5" value="作为新日志的起始行，并输出上一条日志（若有）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="260" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hJFQaA380FzBIK7bfyuj-8" value="是否匹配 BeginRegex" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="40" as="geometry" />
