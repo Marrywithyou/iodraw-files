@@ -91,7 +91,7 @@
         <mxCell id="hJFQaA380FzBIK7bfyuj-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="415" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="hJFQaA380FzBIK7bfyuj-29" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hJFQaA380FzBIK7bfyuj-29" value="丢弃这一行" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="500" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
