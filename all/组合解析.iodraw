@@ -50,7 +50,7 @@
           <mxGeometry x="145" y="340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hJFQaA380FzBIK7bfyuj-17" value="合并到上一条日志" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="335" width="120" height="50" as="geometry" />
+          <mxGeometry x="360" y="337.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="hJFQaA380FzBIK7bfyuj-20" value="MergeIfFail" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="145" y="460" width="110" height="40" as="geometry" />
